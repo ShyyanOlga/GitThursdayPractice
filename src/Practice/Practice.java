@@ -6,4 +6,6 @@ public class Practice {
     //hello
     //How are you
     //nice
+    //good
+    //very good
 }
